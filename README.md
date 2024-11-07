@@ -1,4 +1,4 @@
-<h1 align="left">Sobre mim</h1>
+<h1 align="left">📍 Sobre mim</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">Conhecimentos e Habilidades</h1>
+<h1 align="left">📚 Conhecimentos e Habilidades</h1>
 
 ###
 
