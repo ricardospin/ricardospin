@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Graduado em Análise e Desenvolvimento de Sistemas pela FMU e cursando Sistemas para Internet na FIAP, hoje atuo como UX/UI Designer na Ubicua. Tenho experiência na criação e prototipação de interfaces, design para mídias digitais, produção de conteúdos visuais e marketing digital.<br><br>Minha trajetória na tecnologia começou como Técnico em Informática pelo Instituto Técnico de Barueri (ITB), e desde então venho expandindo meu conhecimento em UX/UI Design, Front-End e Marketing Digital. Busco sempre inovar, aprimorar experiências e criar soluções intuitivas e eficientes.<br><br>📌 LinkedIn: linkedin.com/in/ricardospinheiro</p><br>🎨 Portfólio: behance.net/ricardospin</p>
+<p align="left">Graduado em Análise e Desenvolvimento de Sistemas pela FMU e cursando Sistemas para Internet na FIAP, hoje atuo como UX/UI Designer na Ubicua. Tenho experiência na criação e prototipação de interfaces, design para mídias digitais, produção de conteúdos visuais e marketing digital.<br><br>Minha trajetória na tecnologia começou como Técnico em Informática pelo Instituto Técnico de Barueri (ITB), e desde então venho expandindo meu conhecimento em UX/UI Design, Front-End e Marketing Digital. Busco sempre inovar, aprimorar experiências e criar soluções intuitivas e eficientes.<br><br>📌 LinkedIn: linkedin.com/in/ricardospinheiro<br>🎨 Portfólio: behance.net/ricardospin</p>
 
 ###
 
