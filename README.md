@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Graduado em Análise e Desenvolvimento de Sistemas, atuo hoje como Assistente de Marketing na Cloud Target, criando e editando conteúdos digitais. Cursando uma segunda graduação em Sistemas para Internet, exploro a conexão entre tecnologia e comunicação, com foco em Marketing Digital, Desenvolvimento Full-Stack e UX/UI Design.<br><br>Comecei na área de tecnologia como Técnico em Informática no ITB (Barueri) e estou sempre em busca de novas formas de agregar valor aos projetos.<br><br>🎨 Portfólio: behance.net/ricardopinheiro12</p>
+<p align="left">Graduado em Análise e Desenvolvimento de Sistemas pela FMU e cursando Sistemas para Internet na FIAP, hoje atuo como UX/UI Designer na Ubicua. Tenho experiência na criação e prototipação de interfaces, design para mídias digitais, produção de conteúdos visuais e marketing digital.<br><br>Minha trajetória na tecnologia começou como Técnico em Informática pelo Instituto Técnico de Barueri (ITB), e desde então venho expandindo meu conhecimento em UX/UI Design, Front-End e Marketing Digital. Busco sempre inovar, aprimorar experiências e criar soluções intuitivas e eficientes.<br><br>📌 LinkedIn: linkedin.com/in/ricardospinheiro</p><br>🎨 Portfólio: behance.net/ricardospin</p>
 
 ###
 
