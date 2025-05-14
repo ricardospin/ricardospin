@@ -37,6 +37,6 @@
 
 ###
 
-<p align="left">Português - Nativo<br>Inglês - B2<br>Espanhol - B1</p>
+<p align="left">Português - Nativo<br>Inglês - B1<br>Espanhol - A2</p>
 
 ###
